@@ -1,4 +1,4 @@
-Hi
+Nice to see you.
 
 <!---
 SHC02/SHC02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
